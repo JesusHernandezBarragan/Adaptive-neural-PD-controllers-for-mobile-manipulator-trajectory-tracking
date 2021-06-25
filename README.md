@@ -10,3 +10,10 @@ Please run the main.m scripts to obtain the results presented in graphs and tabl
 
 Note: The files were created with MATLAB R2017a. It is convenient to provide the Raw data in MAT format. 
 MAT files contain variables and data necessary to run the simulation files.
+
+Author:
+Jesus Hernandez-Barragan
+
+Collaborators:
+Javier Gomez-Avila
+Jorge D. Rios
