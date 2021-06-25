@@ -15,5 +15,5 @@ Author:
 Jesus Hernandez-Barragan
 
 Collaborators:
-Javier Gomez-Avila
+Javier Gomez-Avila,
 Jorge D. Rios
